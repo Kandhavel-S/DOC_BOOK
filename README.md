@@ -32,13 +32,24 @@ Manages and retrieves the user's current location for use in other pages.
 Contains the navigation logic to switch between the various pages of the application.
 
 Files Included:
-auth_page.dart: Implements user authentication functionality.
+
+auth_page.dart: Implements user authentication functionality. 
+
 doctor_booking_page.dart: Manages the doctor search and appointment booking process.
+
 chatbot_page.dart: Contains the chatbot interface and logic to handle user queries.
+
 history_page.dart: Displays the visit history functionality.
+
 hospitals_page.dart: Helps users find nearby hospitals.
+
 location_page.dart: Manages location services.
+
 main_navigation.dart: Handles navigation between pages.
+
 widgets/: Contains reusable UI components such as:
+
 custom_input.dart: Custom input fields for forms.
+
 custom_icons.dart: Custom icons used throughout the app.
+
